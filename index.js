@@ -21,8 +21,8 @@ app.get('/', (req, res) => {
   </head>
   <body>
     <header>
-      <h1>Welcome to IS 404</h1>
-      <p>A beautiful homepage served by Express.js.</p>
+      <h1>Welcome to Github</h1>
+      <p>A beautiful homepage served by Ryan Schuetzler.</p>
       <a class="button" href="/about">About</a>
     </header>
 
