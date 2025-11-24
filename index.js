@@ -21,6 +21,7 @@ app.get('/', (req, res) => {
   </head>
   <body>
     <header>
+      <h1>Welcome to Github</h1>
       <p>A beautiful page served by IS 404, the best class in the core</p>
       <a class="button" href="/about">About</a>
     </header>
