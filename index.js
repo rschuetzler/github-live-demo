@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
   <body>
     <header>
       <h1>Welcome to IS 404</h1>
-      <p>A minimal homepage served by Express.js.</p>
+      <p>A beautiful homepage served by Express.js.</p>
       <a class="button" href="/about">About</a>
     </header>
 
